@@ -281,7 +281,7 @@ def load_graph(
     else:
         file = f"direct_citation_network_fa2_layout_{platform}_degree_20.gexf"
 
-    network_data = nx.read_gexf(j("data", file))
+    network_data = nx.read_gexf(j("src", "data", file))
     fig = create_network_figure(
         network_data,
         node_size,
@@ -306,7 +306,7 @@ def update_table(tab, platform, mst_alpha):
         csv_file = f"cocitation_network_metrics_{platform}_maximum_spanning_tree_and_disparity_{mst_alpha}.csv"
     else:
         csv_file = f"direct_citation_network_metrics_{platform}_degree_20.csv"
-    df = pd.read_csv(j("data", csv_file))
+    df = pd.read_csv(j("src", "data", csv_file))
     df = df.round(2)
     table = dbc.Table.from_dataframe(
         df, striped=True, bordered=True, hover=True)
