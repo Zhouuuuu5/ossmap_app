@@ -11,11 +11,7 @@ import dash_bootstrap_components as dbc
 import networkx as nx
 from network_vis_tools import create_network_figure
 import pandas as pd
-import yaml
 from os.path import join as j
-
-with open("config.yaml", "r") as config_file:
-    config = yaml.safe_load(config_file)
 
 # Initialize the app - incorporate css
 app = Dash(
