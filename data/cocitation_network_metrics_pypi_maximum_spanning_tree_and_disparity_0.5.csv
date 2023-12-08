@@ -1,0 +1,7 @@
+Metric,Percentage
+Original Network GCC Node,97.34772662281956
+Backbone Network Node,14.891335430368887
+Original Network GCC Edges Removed,0.15756443679952697
+Backbone Network Edges Removed,99.30053484559357
+Original Network GCC Edge Weight Removed,0.08694788842991369
+Backbone Network Edge Weight Removed,91.98695480815806

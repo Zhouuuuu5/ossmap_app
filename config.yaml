@@ -1,0 +1,16 @@
+# set the directories below and copy this file as `config.yaml`
+DOWNLOAD_DIR: "/mnt/f/data/"
+RAW_DATA_DIR: "/mnt/f/data/libraries-1.6.0-2020-01-12/"
+DERIVED_DATA_DIR: "/mnt/f/data/derived_data/"
+
+direct_citation_network:
+  pypi: "direct_citation_network_pypi.gexf"
+  cran: "direct_citation_network_cran.gexf"
+cocitation_network:
+  pypi: "cocitation_network_pypi.gexf"
+  cran: "cocitation_network_cran.gexf"
+direct_citation_network_with_topics:
+  pypi: "direct_citation_network_pypi_with_topics.gexf"
+cocitation_network_with_topics:
+  pypi: "cocitation_network_pypi_with_topics.gexf"
+  pypi_shuffled: "cocitation_network_pypi_with_topics_shuffled_weight.gexf"

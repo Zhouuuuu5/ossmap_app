@@ -1,0 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.filter-component > div {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,2943 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="alpha" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="licenses" type="string" />
+      <attribute id="1" title="x" type="double" />
+      <attribute id="2" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="687512" label="R.rsp">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="-10.732105227416868" />
+          <attvalue for="2" value="21.16742293562434" />
+        </attvalues>
+      </node>
+      <node id="691865" label="colorspace">
+        <attvalues>
+          <attvalue for="0" value="BSD-1-Clause" />
+          <attvalue for="1" value="0.12000450902330631" />
+          <attvalue for="2" value="-4.970534822200511" />
+        </attvalues>
+      </node>
+      <node id="691011" label="tmvtnorm">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="48.57763364294845" />
+          <attvalue for="2" value="-37.703967280339576" />
+        </attvalues>
+      </node>
+      <node id="690499" label="glmnet">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="1.8371194967951456" />
+          <attvalue for="2" value="-4.299016508136093" />
+        </attvalues>
+      </node>
+      <node id="691390" label="xts">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="1.5091583019014414" />
+          <attvalue for="2" value="-9.286931529919404" />
+        </attvalues>
+      </node>
+      <node id="689233" label="RSQLite">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="-14.604660706198729" />
+          <attvalue for="2" value="20.9213567383648" />
+        </attvalues>
+      </node>
+      <node id="689665" label="htmltools">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="1.5522832632217143" />
+          <attvalue for="2" value="-4.289877564185048" />
+        </attvalues>
+      </node>
+      <node id="690548" label="pbapply">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="2.6977123366654787" />
+          <attvalue for="2" value="-4.089349669054661" />
+        </attvalues>
+      </node>
+      <node id="1283615" label="tibble">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-9.438594653436175" />
+          <attvalue for="2" value="23.417607461397097" />
+        </attvalues>
+      </node>
+      <node id="2775488" label="pkgdown">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-11.814500102183308" />
+          <attvalue for="2" value="20.759848014829082" />
+        </attvalues>
+      </node>
+      <node id="2265848" label="aws.s3">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-11.068928695555286" />
+          <attvalue for="2" value="35.12602884623867" />
+        </attvalues>
+      </node>
+      <node id="691433" label="rJava">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-12.421403522650426" />
+          <attvalue for="2" value="21.38722680881885" />
+        </attvalues>
+      </node>
+      <node id="954970" label="xml2">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-10.77480552605616" />
+          <attvalue for="2" value="21.54470433696785" />
+        </attvalues>
+      </node>
+      <node id="689417" label="fpc">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="19.2694895863424" />
+          <attvalue for="2" value="-1.5682228048162292" />
+        </attvalues>
+      </node>
+      <node id="687664" label="clue">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-15.506497145836894" />
+          <attvalue for="2" value="22.552217360850026" />
+        </attvalues>
+      </node>
+      <node id="688744" label="ape">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="3.028380395923351" />
+          <attvalue for="2" value="-13.206308156100238" />
+        </attvalues>
+      </node>
+      <node id="690758" label="foreach">
+        <attvalues>
+          <attvalue for="0" value="Apache-2.0" />
+          <attvalue for="1" value="2.0093517617580154" />
+          <attvalue for="2" value="-4.3219137672183905" />
+        </attvalues>
+      </node>
+      <node id="689194" label="deSolve">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="5.540168615962452" />
+          <attvalue for="2" value="-4.732871558545027" />
+        </attvalues>
+      </node>
+      <node id="688002" label="pscl">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="31.720634338956135" />
+          <attvalue for="2" value="-33.728706656173166" />
+        </attvalues>
+      </node>
+      <node id="2437624" label="spelling">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-10.383103481934768" />
+          <attvalue for="2" value="21.301380795186052" />
+        </attvalues>
+      </node>
+      <node id="688834" label="jsonlite">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-10.593737129182493" />
+          <attvalue for="2" value="25.414812985121387" />
+        </attvalues>
+      </node>
+      <node id="687381" label="boot">
+        <attvalues>
+          <attvalue for="0" value="FSFUL" />
+          <attvalue for="1" value="0.7556734743082171" />
+          <attvalue for="2" value="-5.062067209871294" />
+        </attvalues>
+      </node>
+      <node id="687327" label="spatstat">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-50.392876525560574" />
+          <attvalue for="2" value="-0.0850839903330769" />
+        </attvalues>
+      </node>
+      <node id="687842" label="V8">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-10.258503456218099" />
+          <attvalue for="2" value="32.68791420836068" />
+        </attvalues>
+      </node>
+      <node id="691672" label="bigmemory">
+        <attvalues>
+          <attvalue for="0" value="Apache-2.0" />
+          <attvalue for="1" value="-12.169467778799625" />
+          <attvalue for="2" value="24.226200893187" />
+        </attvalues>
+      </node>
+      <node id="958838" label="progress">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-8.796632571323379" />
+          <attvalue for="2" value="20.749277555745184" />
+        </attvalues>
+      </node>
+      <node id="690478" label="gtools">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="0.6497537679039423" />
+          <attvalue for="2" value="-4.033004365568564" />
+        </attvalues>
+      </node>
+      <node id="689835" label="formatR">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-0.8531060677061699" />
+          <attvalue for="2" value="-2.0183353946429876" />
+        </attvalues>
+      </node>
+      <node id="687651" label="shiny">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="-5.118600679795395" />
+          <attvalue for="2" value="-13.426469408258889" />
+        </attvalues>
+      </node>
+      <node id="689125" label="rootSolve">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="6.438949683685437" />
+          <attvalue for="2" value="-1.7354818534946688" />
+        </attvalues>
+      </node>
+      <node id="687834" label="RandomFields">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-52.41288109162655" />
+          <attvalue for="2" value="-0.002240812354274091" />
+        </attvalues>
+      </node>
+      <node id="687573" label="rms">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-8.667614456756704" />
+          <attvalue for="2" value="-3.3976131771595135" />
+        </attvalues>
+      </node>
+      <node id="690161" label="lme4">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="32.02003901920743" />
+          <attvalue for="2" value="-29.75441384629342" />
+        </attvalues>
+      </node>
+      <node id="1129271" label="aws.signature">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-12.295779635412869" />
+          <attvalue for="2" value="25.560016206628006" />
+        </attvalues>
+      </node>
+      <node id="688344" label="SparseM">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="5.798989267817638" />
+          <attvalue for="2" value="5.575414285679365" />
+        </attvalues>
+      </node>
+      <node id="689569" label="coin">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="35.91514180699974" />
+          <attvalue for="2" value="-30.858248253481086" />
+        </attvalues>
+      </node>
+      <node id="689740" label="e1071">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="-4.709098551696547" />
+          <attvalue for="2" value="-7.3056328386153435" />
+        </attvalues>
+      </node>
+      <node id="687293" label="haven">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="3.9382495578040695" />
+          <attvalue for="2" value="-4.89022839718467" />
+        </attvalues>
+      </node>
+      <node id="693200" label="gridExtra">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="14.266500502975278" />
+          <attvalue for="2" value="-3.5700716217621817" />
+        </attvalues>
+      </node>
+      <node id="692426" label="ggmap">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="16.498784062463056" />
+          <attvalue for="2" value="-1.8540138396971746" />
+        </attvalues>
+      </node>
+      <node id="688813" label="GGally">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="15.403313189522585" />
+          <attvalue for="2" value="-2.674879419410241" />
+        </attvalues>
+      </node>
+      <node id="689198" label="pander">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="2.8458683284792574" />
+          <attvalue for="2" value="-4.309470844241175" />
+        </attvalues>
+      </node>
+      <node id="689518" label="maps">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="0.5944659100569691" />
+          <attvalue for="2" value="-3.4465885842117014" />
+        </attvalues>
+      </node>
+      <node id="692071" label="latticeExtra">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="35.03153070796941" />
+          <attvalue for="2" value="-29.647865487970495" />
+        </attvalues>
+      </node>
+      <node id="693117" label="matrixcalc">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-1.962067918022089" />
+          <attvalue for="2" value="-2.4379210389174406" />
+        </attvalues>
+      </node>
+      <node id="688289" label="gplots">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="3.611151215965178" />
+          <attvalue for="2" value="-7.036428587767677" />
+        </attvalues>
+      </node>
+      <node id="687820" label="maptools">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-49.38076282087625" />
+          <attvalue for="2" value="-1.0124758025424136" />
+        </attvalues>
+      </node>
+      <node id="690104" label="lpSolve">
+        <attvalues>
+          <attvalue for="0" value="LGPL-2.0" />
+          <attvalue for="1" value="-14.584795498034886" />
+          <attvalue for="2" value="20.110108166846846" />
+        </attvalues>
+      </node>
+      <node id="688168" label="robustbase">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="33.25266347034781" />
+          <attvalue for="2" value="-27.711370332050176" />
+        </attvalues>
+      </node>
+      <node id="957520" label="viridis">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="2.6926809852470406" />
+          <attvalue for="2" value="-5.848740306959367" />
+        </attvalues>
+      </node>
+      <node id="691252" label="lmtest">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="-40.66913456418085" />
+          <attvalue for="2" value="38.82516386334052" />
+        </attvalues>
+      </node>
+      <node id="2386408" label="shinycssloaders">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-14.156657864361634" />
+          <attvalue for="2" value="-23.259255005803325" />
+        </attvalues>
+      </node>
+      <node id="692746" label="MBESS">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="8.519055606119041" />
+          <attvalue for="2" value="-10.545234194871885" />
+        </attvalues>
+      </node>
+      <node id="687449" label="lattice">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="33.10914315037002" />
+          <attvalue for="2" value="-29.842242859179752" />
+        </attvalues>
+      </node>
+      <node id="688718" label="VGAM">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="33.32823660900399" />
+          <attvalue for="2" value="-31.52334618460431" />
+        </attvalues>
+      </node>
+      <node id="690513" label="ggplot2">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="15.11948283981083" />
+          <attvalue for="2" value="-2.1435173330672987" />
+        </attvalues>
+      </node>
+      <node id="690356" label="cmprsk">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-9.937717437028326" />
+          <attvalue for="2" value="-3.664281186799118" />
+        </attvalues>
+      </node>
+      <node id="689164" label="rjson">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-3.9973624790967976" />
+          <attvalue for="2" value="-2.4148970611517724" />
+        </attvalues>
+      </node>
+      <node id="688070" label="plotrix">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="3.083444204198891" />
+          <attvalue for="2" value="-6.011018313402355" />
+        </attvalues>
+      </node>
+      <node id="692582" label="triangle">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="14.25038805714762" />
+          <attvalue for="2" value="-80.03208429727367" />
+        </attvalues>
+      </node>
+      <node id="692084" label="pls">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="32.28629389443947" />
+          <attvalue for="2" value="-32.61703054467766" />
+        </attvalues>
+      </node>
+      <node id="692424" label="ellipse">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="34.67555654365267" />
+          <attvalue for="2" value="-31.858683772736843" />
+        </attvalues>
+      </node>
+      <node id="687454" label="Rcmdr">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="8.213547795787983" />
+          <attvalue for="2" value="-15.419229792177719" />
+        </attvalues>
+      </node>
+      <node id="687351" label="RcppArmadillo">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-18.534306365288064" />
+          <attvalue for="2" value="27.768402866112798" />
+        </attvalues>
+      </node>
+      <node id="1146730" label="ggrepel">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="22.049990247664844" />
+          <attvalue for="2" value="-2.9151969477269106" />
+        </attvalues>
+      </node>
+      <node id="692369" label="MCMCpack">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="32.763405047048956" />
+          <attvalue for="2" value="-32.23977431383874" />
+        </attvalues>
+      </node>
+      <node id="1649045" label="tidyverse">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="2.2725442083254053" />
+          <attvalue for="2" value="-3.5365808898151267" />
+        </attvalues>
+      </node>
+      <node id="688624" label="roxygen2">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-9.60382989352155" />
+          <attvalue for="2" value="22.033570375135813" />
+        </attvalues>
+      </node>
+      <node id="690788" label="tuneR">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="8.480725928095712" />
+          <attvalue for="2" value="-8.289202148237077" />
+        </attvalues>
+      </node>
+      <node id="687410" label="survival">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="-6.471640033173132" />
+          <attvalue for="2" value="-3.930674714129993" />
+        </attvalues>
+      </node>
+      <node id="689473" label="microbenchmark">
+        <attvalues>
+          <attvalue for="0" value="BSD-1-Clause" />
+          <attvalue for="1" value="1.1672653351637632" />
+          <attvalue for="2" value="-3.71096657963815" />
+        </attvalues>
+      </node>
+      <node id="959061" label="readxl">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="0.03631588056898463" />
+          <attvalue for="2" value="-3.839516536100052" />
+        </attvalues>
+      </node>
+      <node id="691042" label="doParallel">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="3.441665607064932" />
+          <attvalue for="2" value="0.8143981584241735" />
+        </attvalues>
+      </node>
+      <node id="691814" label="corrplot">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-0.806800698568261" />
+          <attvalue for="2" value="-3.05428041049239" />
+        </attvalues>
+      </node>
+      <node id="690714" label="scales">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="17.670099249883965" />
+          <attvalue for="2" value="-3.108279824698809" />
+        </attvalues>
+      </node>
+      <node id="1083187" label="viridisLite">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-1.3507191149273536" />
+          <attvalue for="2" value="-4.65616832352471" />
+        </attvalues>
+      </node>
+      <node id="689288" label="openxlsx">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="5.003732558806305" />
+          <attvalue for="2" value="-1.5650112189486376" />
+        </attvalues>
+      </node>
+      <node id="1608057" label="colourpicker">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-10.638684841098227" />
+          <attvalue for="2" value="-21.022121310305213" />
+        </attvalues>
+      </node>
+      <node id="688763" label="tidyr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="6.204461413983014" />
+          <attvalue for="2" value="1.5662444995863716" />
+        </attvalues>
+      </node>
+      <node id="689436" label="lavaan">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="35.25756277687569" />
+          <attvalue for="2" value="-31.30189325201349" />
+        </attvalues>
+      </node>
+      <node id="687964" label="raster">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-48.58462034256161" />
+          <attvalue for="2" value="-1.831859707983038" />
+        </attvalues>
+      </node>
+      <node id="691396" label="lubridate">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="1.2960691471057624" />
+          <attvalue for="2" value="-5.520933468811031" />
+        </attvalues>
+      </node>
+      <node id="692769" label="gtable">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="24.86890517275006" />
+          <attvalue for="2" value="0.5489617345307318" />
+        </attvalues>
+      </node>
+      <node id="688316" label="RUnit">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-0.5581921170933557" />
+          <attvalue for="2" value="-4.304072189285268" />
+        </attvalues>
+      </node>
+      <node id="691607" label="png">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="2.832618259343609" />
+          <attvalue for="2" value="-4.29925974134793" />
+        </attvalues>
+      </node>
+      <node id="956047" label="shinyjs">
+        <attvalues>
+          <attvalue for="0" value="AGPL-3.0" />
+          <attvalue for="1" value="-6.978539835159581" />
+          <attvalue for="2" value="-15.407085829354585" />
+        </attvalues>
+      </node>
+      <node id="689565" label="rgdal">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-48.81586273221223" />
+          <attvalue for="2" value="-1.488504964288194" />
+        </attvalues>
+      </node>
+      <node id="689525" label="rgeos">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-48.476781958825" />
+          <attvalue for="2" value="-1.3219028048406007" />
+        </attvalues>
+      </node>
+      <node id="688518" label="tcltk2">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="39.41215498114797" />
+          <attvalue for="2" value="-40.48416562632822" />
+        </attvalues>
+      </node>
+      <node id="688736" label="network">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-12.453864332263732" />
+          <attvalue for="2" value="-8.497518807548888" />
+        </attvalues>
+      </node>
+      <node id="687847" label="car">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="32.52727640414447" />
+          <attvalue for="2" value="-28.89855492733763" />
+        </attvalues>
+      </node>
+      <node id="1584776" label="ggpubr">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="29.187812199360813" />
+          <attvalue for="2" value="-1.2502459057159203" />
+        </attvalues>
+      </node>
+      <node id="689414" label="copula">
+        <attvalues>
+          <attvalue for="0" value="LAL-1.3" />
+          <attvalue for="1" value="47.08501803049736" />
+          <attvalue for="2" value="-38.28396440903573" />
+        </attvalues>
+      </node>
+      <node id="689037" label="fdrtool">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-14.451405361576128" />
+          <attvalue for="2" value="-33.26650442524361" />
+        </attvalues>
+      </node>
+      <node id="687560" label="Hmisc">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="0.9805769516208168" />
+          <attvalue for="2" value="-2.9895428833890105" />
+        </attvalues>
+      </node>
+      <node id="687644" label="nnet">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="31.193170940844126" />
+          <attvalue for="2" value="-31.722485708284587" />
+        </attvalues>
+      </node>
+      <node id="690706" label="memoise">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-12.7095287599491" />
+          <attvalue for="2" value="19.109058242672678" />
+        </attvalues>
+      </node>
+      <node id="1830296" label="crul">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-9.063755737769924" />
+          <attvalue for="2" value="20.296650389086643" />
+        </attvalues>
+      </node>
+      <node id="689933" label="survey">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="-0.006158674947636833" />
+          <attvalue for="2" value="-1.8690668835794537" />
+        </attvalues>
+      </node>
+      <node id="689653" label="geosphere">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-50.00849277229842" />
+          <attvalue for="2" value="-0.7759037017867862" />
+        </attvalues>
+      </node>
+      <node id="688684" label="htmlwidgets">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="1.9213316570503036" />
+          <attvalue for="2" value="-5.160309392152328" />
+        </attvalues>
+      </node>
+      <node id="691267" label="truncnorm">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="32.41410544702581" />
+          <attvalue for="2" value="-33.87533723526459" />
+        </attvalues>
+      </node>
+      <node id="1573804" label="bookdown">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-0.08531203077376592" />
+          <attvalue for="2" value="-2.6766801554038047" />
+        </attvalues>
+      </node>
+      <node id="690695" label="reshape">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="23.960841999695095" />
+          <attvalue for="2" value="-4.8296900497531885" />
+        </attvalues>
+      </node>
+      <node id="689270" label="RcppParallel">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-18.34483989058766" />
+          <attvalue for="2" value="27.354345890916253" />
+        </attvalues>
+      </node>
+      <node id="958667" label="shinydashboard">
+        <attvalues>
+          <attvalue for="0" value="xpp,AML" />
+          <attvalue for="1" value="-8.82464007780333" />
+          <attvalue for="2" value="-15.886959845293163" />
+        </attvalues>
+      </node>
+      <node id="687488" label="nlme">
+        <attvalues>
+          <attvalue for="0" value="LAL-1.3,LAL-1.3" />
+          <attvalue for="1" value="32.265586843256635" />
+          <attvalue for="2" value="-30.094037311314004" />
+        </attvalues>
+      </node>
+      <node id="688383" label="httr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-10.610294039921273" />
+          <attvalue for="2" value="22.02253110739187" />
+        </attvalues>
+      </node>
+      <node id="690789" label="gdata">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="34.352818489919336" />
+          <attvalue for="2" value="1.2382294215049314" />
+        </attvalues>
+      </node>
+      <node id="1152902" label="miniUI">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-6.745468332221072" />
+          <attvalue for="2" value="-17.09845654302611" />
+        </attvalues>
+      </node>
+      <node id="688725" label="RColorBrewer">
+        <attvalues>
+          <attvalue for="0" value="Apache-2.0" />
+          <attvalue for="1" value="0.5665295233357655" />
+          <attvalue for="2" value="-6.469918796263986" />
+        </attvalues>
+      </node>
+      <node id="688151" label="dplyr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-0.3208843343963581" />
+          <attvalue for="2" value="-7.274039146284043" />
+        </attvalues>
+      </node>
+      <node id="689200" label="R6">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-10.261477607041567" />
+          <attvalue for="2" value="22.114315430578166" />
+        </attvalues>
+      </node>
+      <node id="688611" label="checkmate">
+        <attvalues>
+          <attvalue for="0" value="BSD-1-Clause" />
+          <attvalue for="1" value="-10.822052600330498" />
+          <attvalue for="2" value="21.035468457388205" />
+        </attvalues>
+      </node>
+      <node id="688836" label="lintr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-11.141614748215654" />
+          <attvalue for="2" value="22.059456277232066" />
+        </attvalues>
+      </node>
+      <node id="688107" label="devtools">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="2.3914842114492516" />
+          <attvalue for="2" value="-4.6447275958900995" />
+        </attvalues>
+      </node>
+      <node id="691584" label="assertthat">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-8.52574944857436" />
+          <attvalue for="2" value="21.913499947410934" />
+        </attvalues>
+      </node>
+      <node id="2191676" label="shinyWidgets">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="-8.26502887435262" />
+          <attvalue for="2" value="-20.502689141712196" />
+        </attvalues>
+      </node>
+      <node id="692569" label="cubature">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="46.808284510224205" />
+          <attvalue for="2" value="-36.92749335694044" />
+        </attvalues>
+      </node>
+      <node id="689582" label="mclust">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="31.109818356411147" />
+          <attvalue for="2" value="-31.219187737912694" />
+        </attvalues>
+      </node>
+      <node id="688069" label="ordinal">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="34.077092734225154" />
+          <attvalue for="2" value="-33.29035883241026" />
+        </attvalues>
+      </node>
+      <node id="2289814" label="webmockr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-12.94085072904434" />
+          <attvalue for="2" value="41.05124400911343" />
+        </attvalues>
+      </node>
+      <node id="2373998" label="tidyselect">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-10.81626510615158" />
+          <attvalue for="2" value="21.480994781037964" />
+        </attvalues>
+      </node>
+      <node id="689059" label="lpSolveAPI">
+        <attvalues>
+          <attvalue for="0" value="LGPL-2.0" />
+          <attvalue for="1" value="-7.342652806958644" />
+          <attvalue for="2" value="26.319867438930423" />
+        </attvalues>
+      </node>
+      <node id="990004" label="withr">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-11.203222632846284" />
+          <attvalue for="2" value="21.12582867789373" />
+        </attvalues>
+      </node>
+      <node id="2171161" label="kableExtra">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="1.9774505508415638" />
+          <attvalue for="2" value="-5.253474990110978" />
+        </attvalues>
+      </node>
+      <node id="693257" label="mlbench">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-12.176087063246152" />
+          <attvalue for="2" value="22.767398634385582" />
+        </attvalues>
+      </node>
+      <node id="690177" label="randomForest">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="0.8388213388748818" />
+          <attvalue for="2" value="-4.409966461386467" />
+        </attvalues>
+      </node>
+      <node id="693528" label="tkrplot">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="37.36771617487029" />
+          <attvalue for="2" value="-37.74775804940665" />
+        </attvalues>
+      </node>
+      <node id="688399" label="rstudioapi">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-9.432395096066198" />
+          <attvalue for="2" value="21.7092482300122" />
+        </attvalues>
+      </node>
+      <node id="688072" label="psych">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="24.898085410970367" />
+          <attvalue for="2" value="-2.4527377204134977" />
+        </attvalues>
+      </node>
+      <node id="689503" label="DBI">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="-12.84281045879311" />
+          <attvalue for="2" value="21.46398981098362" />
+        </attvalues>
+      </node>
+      <node id="1587924" label="magick">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="3.042653475262396" />
+          <attvalue for="2" value="-5.672304617570455" />
+        </attvalues>
+      </node>
+      <node id="687516" label="broom">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="0.45469890891016274" />
+          <attvalue for="2" value="-5.215629632468356" />
+        </attvalues>
+      </node>
+      <node id="689434" label="testthat">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-11.105391994819591" />
+          <attvalue for="2" value="18.839932692812198" />
+        </attvalues>
+      </node>
+      <node id="689242" label="httpuv">
+        <attvalues>
+          <attvalue for="0" value="xpp,AML" />
+          <attvalue for="1" value="-11.729087669882388" />
+          <attvalue for="2" value="30.466215457795105" />
+        </attvalues>
+      </node>
+      <node id="690294" label="base64enc">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="3.901755847907864" />
+          <attvalue for="2" value="-4.702229398251265" />
+        </attvalues>
+      </node>
+      <node id="687483" label="foreign">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="3.4763644984842905" />
+          <attvalue for="2" value="-4.548796356299547" />
+        </attvalues>
+      </node>
+      <node id="687398" label="MASS">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="32.19531416501453" />
+          <attvalue for="2" value="-31.043761985229395" />
+        </attvalues>
+      </node>
+      <node id="689848" label="markdown">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="3.142716126094907" />
+          <attvalue for="2" value="-5.222996971495179" />
+        </attvalues>
+      </node>
+      <node id="691054" label="plyr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="16.32510490369478" />
+          <attvalue for="2" value="-1.422386664534639" />
+        </attvalues>
+      </node>
+      <node id="955549" label="rhandsontable">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-12.236782552175033" />
+          <attvalue for="2" value="-19.15381949841302" />
+        </attvalues>
+      </node>
+      <node id="691564" label="gsl">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-41.62617644493349" />
+          <attvalue for="2" value="53.04769184556617" />
+        </attvalues>
+      </node>
+      <node id="688081" label="Formula">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="3.2230530874887613" />
+          <attvalue for="2" value="-3.7756090006210052" />
+        </attvalues>
+      </node>
+      <node id="688429" label="RCurl">
+        <attvalues>
+          <attvalue for="0" value="BSD-3-Clause" />
+          <attvalue for="1" value="-1.6908356728028122" />
+          <attvalue for="2" value="-4.257093312803674" />
+        </attvalues>
+      </node>
+      <node id="687641" label="KernSmooth">
+        <attvalues>
+          <attvalue for="0" value="FSFUL" />
+          <attvalue for="1" value="-1.746976537555247" />
+          <attvalue for="2" value="-1.3078902364130125" />
+        </attvalues>
+      </node>
+      <node id="688821" label="qgraph">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="-13.513629762487358" />
+          <attvalue for="2" value="-31.65060142138079" />
+        </attvalues>
+      </node>
+      <node id="688101" label="Matrix">
+        <attvalues>
+          <attvalue for="0" value="LAL-1.3,LAL-1.3" />
+          <attvalue for="1" value="4.471874476557795" />
+          <attvalue for="2" value="2.0852142766579393" />
+        </attvalues>
+      </node>
+      <node id="691070" label="gridBase">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="7.38843334464879" />
+          <attvalue for="2" value="-3.5439660115353897" />
+        </attvalues>
+      </node>
+      <node id="690381" label="pROC">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="31.78471981880556" />
+          <attvalue for="2" value="-1.4419614329016894" />
+        </attvalues>
+      </node>
+      <node id="688936" label="metafor">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="41.465624628710096" />
+          <attvalue for="2" value="4.884557060185301" />
+        </attvalues>
+      </node>
+      <node id="958823" label="DT">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="1.6345887653378024" />
+          <attvalue for="2" value="-4.989770258018657" />
+        </attvalues>
+      </node>
+      <node id="690820" label="slam">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="6.419744282553815" />
+          <attvalue for="2" value="9.392404153720737" />
+        </attvalues>
+      </node>
+      <node id="689444" label="corpcor">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="7.347081162111079" />
+          <attvalue for="2" value="7.092409591838361" />
+        </attvalues>
+      </node>
+      <node id="688393" label="digest">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-12.314585805193195" />
+          <attvalue for="2" value="28.17426357937627" />
+        </attvalues>
+      </node>
+      <node id="690736" label="Rdpack">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="0.5944375760656222" />
+          <attvalue for="2" value="-4.591743526395186" />
+        </attvalues>
+      </node>
+      <node id="958874" label="readr">
+        <attvalues>
+          <attvalue for="0" value="xpp,AML" />
+          <attvalue for="1" value="4.283868318651891" />
+          <attvalue for="2" value="-1.3124315283477697" />
+        </attvalues>
+      </node>
+      <node id="690285" label="np">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="59.90314329847702" />
+          <attvalue for="2" value="-57.137858417448946" />
+        </attvalues>
+      </node>
+      <node id="689218" label="rjags">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-2.1825665544542407" />
+          <attvalue for="2" value="-8.227477461814692" />
+        </attvalues>
+      </node>
+      <node id="688542" label="mvtnorm">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="45.206103799258464" />
+          <attvalue for="2" value="-36.3752241921727" />
+        </attvalues>
+      </node>
+      <node id="687301" label="fields">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="0.7317892390593336" />
+          <attvalue for="2" value="-3.46759602491669" />
+        </attvalues>
+      </node>
+      <node id="690029" label="nloptr">
+        <attvalues>
+          <attvalue for="0" value="LGPL-3.0" />
+          <attvalue for="1" value="4.022652706956656" />
+          <attvalue for="2" value="-5.634509485349546" />
+        </attvalues>
+      </node>
+      <node id="688868" label="mgcv">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="37.68742081212304" />
+          <attvalue for="2" value="-34.261118997762104" />
+        </attvalues>
+      </node>
+      <node id="1827154" label="vdiffr">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="-20.58141034993545" />
+          <attvalue for="2" value="33.990363675653306" />
+        </attvalues>
+      </node>
+      <node id="958494" label="leaflet">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="0.038045106016419805" />
+          <attvalue for="2" value="-6.0482923326186215" />
+        </attvalues>
+      </node>
+      <node id="1225000" label="webshot">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="4.083883200518369" />
+          <attvalue for="2" value="-6.221888483054653" />
+        </attvalues>
+      </node>
+      <node id="687774" label="phytools">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="2.9434974092002" />
+          <attvalue for="2" value="-16.87601653183135" />
+        </attvalues>
+      </node>
+      <node id="693250" label="lhs">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-27.201375319832568" />
+          <attvalue for="2" value="51.45607905006927" />
+        </attvalues>
+      </node>
+      <node id="688588" label="fda">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="52.28559186737275" />
+          <attvalue for="2" value="-46.93813373521156" />
+        </attvalues>
+      </node>
+      <node id="688003" label="Rcpp">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-16.765911004924238" />
+          <attvalue for="2" value="26.694106315924124" />
+        </attvalues>
+      </node>
+      <node id="690395" label="mice">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="5.094379966090313" />
+          <attvalue for="2" value="-3.680833831236604" />
+        </attvalues>
+      </node>
+      <node id="2139750" label="zeallot">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-8.677369389330488" />
+          <attvalue for="2" value="100.97360934462242" />
+        </attvalues>
+      </node>
+      <node id="691051" label="zoo">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="2.9623062493901866" />
+          <attvalue for="2" value="-11.30600926846999" />
+        </attvalues>
+      </node>
+      <node id="688209" label="randomForestSRC">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-22.830805671859487" />
+          <attvalue for="2" value="-7.407429032572674" />
+        </attvalues>
+      </node>
+      <node id="1089129" label="plotly">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="19.922920601624178" />
+          <attvalue for="2" value="1.2239538181557712" />
+        </attvalues>
+      </node>
+      <node id="690459" label="statmod">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="45.545127894163066" />
+          <attvalue for="2" value="-47.71923856337365" />
+        </attvalues>
+      </node>
+      <node id="688216" label="vegan">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="0.03358893068685822" />
+          <attvalue for="2" value="-3.8970070085448993" />
+        </attvalues>
+      </node>
+      <node id="688293" label="openssl">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-12.121923225758405" />
+          <attvalue for="2" value="45.50878076832779" />
+        </attvalues>
+      </node>
+      <node id="687986" label="rmarkdown">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-0.6009181045485699" />
+          <attvalue for="2" value="-20.911812175378188" />
+        </attvalues>
+      </node>
+      <node id="2274161" label="rlang">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-13.130452954455661" />
+          <attvalue for="2" value="23.80585287473089" />
+        </attvalues>
+      </node>
+      <node id="692768" label="stringr">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="1.0693843235959897" />
+          <attvalue for="2" value="-7.51380502741326" />
+        </attvalues>
+      </node>
+      <node id="688222" label="quantreg">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="36.86217604317122" />
+          <attvalue for="2" value="-42.745128818991105" />
+        </attvalues>
+      </node>
+      <node id="688241" label="stringdist">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-1.6099604687506617" />
+          <attvalue for="2" value="-5.7098581129676464" />
+        </attvalues>
+      </node>
+      <node id="692230" label="XML">
+        <attvalues>
+          <attvalue for="0" value="BSD-1-Clause" />
+          <attvalue for="1" value="-14.690941366902747" />
+          <attvalue for="2" value="29.39849443656957" />
+        </attvalues>
+      </node>
+      <node id="688501" label="rgl">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="5.730105417919488" />
+          <attvalue for="2" value="-9.929940855169184" />
+        </attvalues>
+      </node>
+      <node id="692825" label="coda">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-1.2667766978261619" />
+          <attvalue for="2" value="-7.018420923250698" />
+        </attvalues>
+      </node>
+      <node id="688082" label="knitr">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="2.131457893419385" />
+          <attvalue for="2" value="-0.04917890493131871" />
+        </attvalues>
+      </node>
+      <node id="691145" label="expm">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="9.895607727407276" />
+          <attvalue for="2" value="10.754578375831601" />
+        </attvalues>
+      </node>
+      <node id="690393" label="yaml">
+        <attvalues>
+          <attvalue for="0" value="BSD-1-Clause" />
+          <attvalue for="1" value="-16.92162911714477" />
+          <attvalue for="2" value="32.2774778900314" />
+        </attvalues>
+      </node>
+      <node id="687496" label="tseries">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="0.8391745516853136" />
+          <attvalue for="2" value="-13.84466485229295" />
+        </attvalues>
+      </node>
+      <node id="687873" label="cluster">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="40.89121855805109" />
+          <attvalue for="2" value="-33.543676714955105" />
+        </attvalues>
+      </node>
+      <node id="958268" label="cowplot">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="21.845942022674055" />
+          <attvalue for="2" value="-0.31713130256077304" />
+        </attvalues>
+      </node>
+      <node id="690702" label="igraph">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-12.336713593137548" />
+          <attvalue for="2" value="-29.689525501163892" />
+        </attvalues>
+      </node>
+      <node id="2515848" label="usethis">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="32.9500409977008" />
+          <attvalue for="2" value="16.239717502834594" />
+        </attvalues>
+      </node>
+      <node id="689490" label="mime">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-13.396271469917114" />
+          <attvalue for="2" value="33.90509645125505" />
+        </attvalues>
+      </node>
+      <node id="691295" label="mapproj">
+        <attvalues>
+          <attvalue for="0" value="LPL-1.02" />
+          <attvalue for="1" value="43.28584373993189" />
+          <attvalue for="2" value="21.610387431198475" />
+        </attvalues>
+      </node>
+      <node id="688234" label="kernlab">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="36.939123135122685" />
+          <attvalue for="2" value="-45.61529060348065" />
+        </attvalues>
+      </node>
+      <node id="693109" label="neuralnet">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-14.90340252228538" />
+          <attvalue for="2" value="-13.856598972668321" />
+        </attvalues>
+      </node>
+      <node id="688277" label="sp">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-49.93629233932069" />
+          <attvalue for="2" value="2.072544534637149" />
+        </attvalues>
+      </node>
+      <node id="2437574" label="ggridges">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="30.411343688058356" />
+          <attvalue for="2" value="3.474092078507643" />
+        </attvalues>
+      </node>
+      <node id="687526" label="multcomp">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="40.83685151756091" />
+          <attvalue for="2" value="-43.757694226233774" />
+        </attvalues>
+      </node>
+      <node id="688364" label="caret">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-6.426768891614551" />
+          <attvalue for="2" value="-7.533468994193868" />
+        </attvalues>
+      </node>
+      <node id="688335" label="moments">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-53.136624203060485" />
+          <attvalue for="2" value="16.065385289315017" />
+        </attvalues>
+      </node>
+      <node id="688617" label="stringi">
+        <attvalues>
+          <attvalue for="0" value="MIT-feh" />
+          <attvalue for="1" value="-21.91457145415181" />
+          <attvalue for="2" value="22.44305893374801" />
+        </attvalues>
+      </node>
+      <node id="687416" label="CDM">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-25.838841929841923" />
+          <attvalue for="2" value="35.78016634382119" />
+        </attvalues>
+      </node>
+      <node id="689851" label="sandwich">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="-39.31442298576787" />
+          <attvalue for="2" value="38.00515333546552" />
+        </attvalues>
+      </node>
+      <node id="693080" label="numDeriv">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="35.83842375510014" />
+          <attvalue for="2" value="-36.07766324954902" />
+        </attvalues>
+      </node>
+      <node id="958453" label="covr">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-7.484572567317545" />
+          <attvalue for="2" value="22.49262671327056" />
+        </attvalues>
+      </node>
+      <node id="688346" label="TH.data">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-14.106823646507664" />
+          <attvalue for="2" value="-3.7313594629319873" />
+        </attvalues>
+      </node>
+      <node id="689317" label="crayon">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-9.122974125438871" />
+          <attvalue for="2" value="28.663308202982368" />
+        </attvalues>
+      </node>
+      <node id="2516237" label="cli">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-23.816240539052277" />
+          <attvalue for="2" value="29.4767100755157" />
+        </attvalues>
+      </node>
+      <node id="687866" label="curl">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-19.76870886547892" />
+          <attvalue for="2" value="22.95063514631661" />
+        </attvalues>
+      </node>
+      <node id="689622" label="xtable">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="0.8209341224409019" />
+          <attvalue for="2" value="-26.12917658782977" />
+        </attvalues>
+      </node>
+      <node id="687472" label="partykit">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="-74.37655019624998" />
+          <attvalue for="2" value="-36.61882468978947" />
+        </attvalues>
+      </node>
+      <node id="1472724" label="desc">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-20.2225794689345" />
+          <attvalue for="2" value="48.38735446044592" />
+        </attvalues>
+      </node>
+      <node id="1216330" label="RSpectra">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="8.535640516368318" />
+          <attvalue for="2" value="9.277917627492743" />
+        </attvalues>
+      </node>
+      <node id="688959" label="magrittr">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-3.1471738791636894" />
+          <attvalue for="2" value="-6.310652869503919" />
+        </attvalues>
+      </node>
+      <node id="691468" label="snowfall">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="30.28336359420187" />
+          <attvalue for="2" value="69.59491523414742" />
+        </attvalues>
+      </node>
+      <node id="687593" label="phangorn">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="3.951119482184269" />
+          <attvalue for="2" value="-15.704127326069115" />
+        </attvalues>
+      </node>
+      <node id="688613" label="ergm">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="-16.337416436648518" />
+          <attvalue for="2" value="-9.477023301219699" />
+        </attvalues>
+      </node>
+      <node id="688740" label="reshape2">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="16.071479946059085" />
+          <attvalue for="2" value="-1.313001782259119" />
+        </attvalues>
+      </node>
+      <node id="688102" label="oro.nifti">
+        <attvalues>
+          <attvalue for="0" value="BSD-1-Clause" />
+          <attvalue for="1" value="51.30048403260369" />
+          <attvalue for="2" value="60.51127039116359" />
+        </attvalues>
+      </node>
+      <node id="689093" label="geometry">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="7.414119355986537" />
+          <attvalue for="2" value="-13.1895538661195" />
+        </attvalues>
+      </node>
+      <node id="687282" label="ggthemes">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0" />
+          <attvalue for="1" value="22.981775642876617" />
+          <attvalue for="2" value="3.289528214790446" />
+        </attvalues>
+      </node>
+      <node id="689584" label="ncdf4">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="27.428077143654406" />
+          <attvalue for="2" value="33.87622170095472" />
+        </attvalues>
+      </node>
+      <node id="994724" label="purrr">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="4.529158814198901" />
+          <attvalue for="2" value="-0.3755703429403088" />
+        </attvalues>
+      </node>
+      <node id="691316" label="sna">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="-15.089085278718311" />
+          <attvalue for="2" value="-9.011464480053185" />
+        </attvalues>
+      </node>
+      <node id="957742" label="future">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="-19.91601420472801" />
+          <attvalue for="2" value="38.515075082800934" />
+        </attvalues>
+      </node>
+      <node id="688087" label="shinythemes">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="-8.799987406370093" />
+          <attvalue for="2" value="-17.705984604440385" />
+        </attvalues>
+      </node>
+      <node id="1605852" label="prettydoc">
+        <attvalues>
+          <attvalue for="0" value="Apache-2.0" />
+          <attvalue for="1" value="21.665922769517426" />
+          <attvalue for="2" value="25.676562921901443" />
+        </attvalues>
+      </node>
+      <node id="690897" label="shinyBS">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="-6.833272739827795" />
+          <attvalue for="2" value="-18.563043400337584" />
+        </attvalues>
+      </node>
+      <node id="693520" label="abind">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+          <attvalue for="1" value="22.117611176317528" />
+          <attvalue for="2" value="14.826281896693589" />
+        </attvalues>
+      </node>
+      <node id="687713" label="pracma">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="24.014021035094608" />
+          <attvalue for="2" value="19.688800746997664" />
+        </attvalues>
+      </node>
+      <node id="692113" label="FNN">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="40.82737653907425" />
+          <attvalue for="2" value="40.86611374344013" />
+        </attvalues>
+      </node>
+      <node id="688726" label="ROCR">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="29.90498280735602" />
+          <attvalue for="2" value="7.346074386401463" />
+        </attvalues>
+      </node>
+      <node id="687407" label="rpart">
+        <attvalues>
+          <attvalue for="0" value="GPL-2.0+" />
+          <attvalue for="1" value="33.81336576942351" />
+          <attvalue for="2" value="-39.190579861614346" />
+        </attvalues>
+      </node>
+      <node id="690545" label="geiger">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="3.1964808133769997" />
+          <attvalue for="2" value="-17.847317219393393" />
+        </attvalues>
+      </node>
+      <node id="687335" label="forecast">
+        <attvalues>
+          <attvalue for="0" value="GPL-3.0" />
+          <attvalue for="1" value="32.20133212615273" />
+          <attvalue for="2" value="24.329423126595557" />
+        </attvalues>
+      </node>
+      <node id="689948" label="optmatch">
+        <attvalues>
+          <attvalue for="0" value="MIT-feh" />
+          <attvalue for="1" value="66.23570588416399" />
+          <attvalue for="2" value="-48.05011341555394" />
+        </attvalues>
+      </node>
+      <node id="2230277" label="glue">
+        <attvalues>
+          <attvalue for="0" value="MIT" />
+          <attvalue for="1" value="-8.572116308513156" />
+          <attvalue for="2" value="31.40134344253271" />
+        </attvalues>
+      </node>
+      <node id="692412" label="quadprog">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="43.69363737230299" />
+          <attvalue for="2" value="-42.159318321836295" />
+        </attvalues>
+      </node>
+      <node id="687590" label="matrixStats">
+        <attvalues>
+          <attvalue for="0" value="Artistic-2.0" />
+          <attvalue for="1" value="-3.467606209559927" />
+          <attvalue for="2" value="-38.15009275501615" />
+        </attvalues>
+      </node>
+      <node id="689415" label="data.table">
+        <attvalues>
+          <attvalue for="0" value="AML" />
+          <attvalue for="1" value="-14.29760603880108" />
+          <attvalue for="2" value="23.33508539279977" />
+        </attvalues>
+      </node>
+      <node id="687731" label="FactoMineR">
+        <attvalues>
+          <attvalue for="0" value="CNRI-Python-GPL-Compatible,CNRI-Python-GPL-Compatible" />
+          <attvalue for="1" value="35.146558060489575" />
+          <attvalue for="2" value="6.260835292946957" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="687512" target="689434" id="10398" weight="108.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="691865" target="688082" id="2475" weight="66.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="691011" target="688542" id="55466" weight="14.0">
+        <attvalues>
+          <attvalue for="3" value="0.0958" />
+        </attvalues>
+      </edge>
+      <edge source="690499" target="688082" id="2688" weight="125.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="691390" target="691051" id="56658" weight="115.0">
+        <attvalues>
+          <attvalue for="3" value="0.0103" />
+        </attvalues>
+      </edge>
+      <edge source="689233" target="689503" id="1918" weight="108.0">
+        <attvalues>
+          <attvalue for="3" value="0.0009" />
+        </attvalues>
+      </edge>
+      <edge source="689665" target="688082" id="2791" weight="161.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690548" target="688082" id="2523" weight="62.0">
+        <attvalues>
+          <attvalue for="3" value="0.001" />
+        </attvalues>
+      </edge>
+      <edge source="1283615" target="689434" id="10109" weight="678.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="2775488" target="689434" id="10711" weight="66.0">
+        <attvalues>
+          <attvalue for="3" value="0.072" />
+        </attvalues>
+      </edge>
+      <edge source="2265848" target="688834" id="463" weight="6.0">
+        <attvalues>
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="691433" target="689434" id="10648" weight="46.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="954970" target="689434" id="10135" weight="262.0">
+        <attvalues>
+          <attvalue for="3" value="0.0382" />
+        </attvalues>
+      </edge>
+      <edge source="689417" target="690513" id="6371" weight="15.0">
+        <attvalues>
+          <attvalue for="3" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="687664" target="689434" id="10397" weight="16.0">
+        <attvalues>
+          <attvalue for="3" value="0.0588" />
+        </attvalues>
+      </edge>
+      <edge source="688744" target="688082" id="2665" weight="124.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688744" target="687774" id="66664" weight="46.0">
+        <attvalues>
+          <attvalue for="3" value="0.0218" />
+        </attvalues>
+      </edge>
+      <edge source="688744" target="687593" id="66645" weight="42.0">
+        <attvalues>
+          <attvalue for="3" value="0.0309" />
+        </attvalues>
+      </edge>
+      <edge source="688744" target="690545" id="66687" weight="37.0">
+        <attvalues>
+          <attvalue for="3" value="0.0478" />
+        </attvalues>
+      </edge>
+      <edge source="690758" target="688082" id="2599" weight="246.0">
+        <attvalues>
+          <attvalue for="3" value="0.0809" />
+        </attvalues>
+      </edge>
+      <edge source="690758" target="691042" id="97124" weight="455.0">
+        <attvalues>
+          <attvalue for="3" value="0.004" />
+        </attvalues>
+      </edge>
+      <edge source="689194" target="688082" id="2708" weight="39.0">
+        <attvalues>
+          <attvalue for="3" value="0.0045" />
+        </attvalues>
+      </edge>
+      <edge source="688002" target="687398" id="52589" weight="36.0">
+        <attvalues>
+          <attvalue for="3" value="0.0724" />
+        </attvalues>
+      </edge>
+      <edge source="2437624" target="689434" id="10124" weight="180.0">
+        <attvalues>
+          <attvalue for="3" value="0.0055" />
+        </attvalues>
+      </edge>
+      <edge source="688834" target="689434" id="14" weight="595.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688834" target="689242" id="79" weight="33.0">
+        <attvalues>
+          <attvalue for="3" value="0.0294" />
+        </attvalues>
+      </edge>
+      <edge source="688834" target="687842" id="33" weight="26.0">
+        <attvalues>
+          <attvalue for="3" value="0.002" />
+        </attvalues>
+      </edge>
+      <edge source="688834" target="689490" id="77" weight="22.0">
+        <attvalues>
+          <attvalue for="3" value="0.0053" />
+        </attvalues>
+      </edge>
+      <edge source="688834" target="2289814" id="133" weight="10.0">
+        <attvalues>
+          <attvalue for="3" value="0.0936" />
+        </attvalues>
+      </edge>
+      <edge source="687381" target="688082" id="2593" weight="99.0">
+        <attvalues>
+          <attvalue for="3" value="0.0003" />
+        </attvalues>
+      </edge>
+      <edge source="687327" target="688277" id="44272" weight="44.0">
+        <attvalues>
+          <attvalue for="3" value="0.0034" />
+        </attvalues>
+      </edge>
+      <edge source="691672" target="689434" id="10149" weight="24.0">
+        <attvalues>
+          <attvalue for="3" value="0.0019" />
+        </attvalues>
+      </edge>
+      <edge source="958838" target="689434" id="10527" weight="61.0">
+        <attvalues>
+          <attvalue for="3" value="0.0161" />
+        </attvalues>
+      </edge>
+      <edge source="690478" target="688082" id="2911" weight="72.0">
+        <attvalues>
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="689835" target="688082" id="2677" weight="40.0">
+        <attvalues>
+          <attvalue for="3" value="0.0533" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="688082" id="2460" weight="444.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="956047" id="8727" weight="105.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="1152902" id="9021" weight="80.0">
+        <attvalues>
+          <attvalue for="3" value="0.0013" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="958667" id="8725" weight="71.0">
+        <attvalues>
+          <attvalue for="3" value="0.0028" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="690897" id="8964" weight="64.0">
+        <attvalues>
+          <attvalue for="3" value="0.0051" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="688087" id="8694" weight="59.0">
+        <attvalues>
+          <attvalue for="3" value="0.0077" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="2191676" id="9247" weight="40.0">
+        <attvalues>
+          <attvalue for="3" value="0.038" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="955549" id="8684" weight="34.0">
+        <attvalues>
+          <attvalue for="3" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="1608057" id="8729" weight="33.0">
+        <attvalues>
+          <attvalue for="3" value="0.0679" />
+        </attvalues>
+      </edge>
+      <edge source="687651" target="2386408" id="9389" weight="32.0">
+        <attvalues>
+          <attvalue for="3" value="0.0738" />
+        </attvalues>
+      </edge>
+      <edge source="689125" target="688082" id="2850" weight="19.0">
+        <attvalues>
+          <attvalue for="3" value="0.0186" />
+        </attvalues>
+      </edge>
+      <edge source="687834" target="688277" id="44270" weight="17.0">
+        <attvalues>
+          <attvalue for="3" value="0.0556" />
+        </attvalues>
+      </edge>
+      <edge source="687573" target="687410" id="78220" weight="34.0">
+        <attvalues>
+          <attvalue for="3" value="0.0179" />
+        </attvalues>
+      </edge>
+      <edge source="690161" target="687398" id="59594" weight="144.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="1129271" target="688383" id="21163" weight="14.0">
+        <attvalues>
+          <attvalue for="3" value="0.09" />
+        </attvalues>
+      </edge>
+      <edge source="688344" target="688101" id="48771" weight="23.0">
+        <attvalues>
+          <attvalue for="3" value="0.0375" />
+        </attvalues>
+      </edge>
+      <edge source="689569" target="687398" id="59656" weight="27.0">
+        <attvalues>
+          <attvalue for="3" value="0.0357" />
+        </attvalues>
+      </edge>
+      <edge source="689740" target="688082" id="2563" weight="95.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="689740" target="688364" id="62169" weight="80.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="689740" target="693109" id="62309" weight="11.0">
+        <attvalues>
+          <attvalue for="3" value="0.0833" />
+        </attvalues>
+      </edge>
+      <edge source="687293" target="688082" id="3105" weight="45.0">
+        <attvalues>
+          <attvalue for="3" value="0.0369" />
+        </attvalues>
+      </edge>
+      <edge source="693200" target="690513" id="6005" weight="420.0">
+        <attvalues>
+          <attvalue for="3" value="0.0024" />
+        </attvalues>
+      </edge>
+      <edge source="692426" target="690513" id="5972" weight="54.0">
+        <attvalues>
+          <attvalue for="3" value="0.0172" />
+        </attvalues>
+      </edge>
+      <edge source="688813" target="690513" id="5996" weight="75.0">
+        <attvalues>
+          <attvalue for="3" value="0.0035" />
+        </attvalues>
+      </edge>
+      <edge source="689198" target="688082" id="2480" weight="86.0">
+        <attvalues>
+          <attvalue for="3" value="0.0115" />
+        </attvalues>
+      </edge>
+      <edge source="689518" target="688082" id="2488" weight="96.0">
+        <attvalues>
+          <attvalue for="3" value="0.0009" />
+        </attvalues>
+      </edge>
+      <edge source="692071" target="687449" id="29041" weight="69.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="693117" target="688082" id="3122" weight="33.0">
+        <attvalues>
+          <attvalue for="3" value="0.0571" />
+        </attvalues>
+      </edge>
+      <edge source="688289" target="688082" id="2597" weight="56.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687820" target="688277" id="44290" weight="151.0">
+        <attvalues>
+          <attvalue for="3" value="0.0019" />
+        </attvalues>
+      </edge>
+      <edge source="690104" target="689434" id="10650" weight="23.0">
+        <attvalues>
+          <attvalue for="3" value="0.0089" />
+        </attvalues>
+      </edge>
+      <edge source="688168" target="687398" id="59694" weight="57.0">
+        <attvalues>
+          <attvalue for="3" value="0.0054" />
+        </attvalues>
+      </edge>
+      <edge source="957520" target="688082" id="2565" weight="97.0">
+        <attvalues>
+          <attvalue for="3" value="0.0008" />
+        </attvalues>
+      </edge>
+      <edge source="691252" target="689851" id="72719" weight="49.0">
+        <attvalues>
+          <attvalue for="3" value="0.0939" />
+        </attvalues>
+      </edge>
+      <edge source="692746" target="688082" id="2545" weight="8.0">
+        <attvalues>
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="687449" target="687398" id="29058" weight="201.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688718" target="687398" id="59913" weight="44.0">
+        <attvalues>
+          <attvalue for="3" value="0.0435" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="688082" id="2467" weight="1610.0">
+        <attvalues>
+          <attvalue for="3" value="-0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="688740" id="6028" weight="530.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="691054" id="5952" weight="457.0">
+        <attvalues>
+          <attvalue for="3" value="-0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="690714" id="5941" weight="389.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="1089129" id="6139" weight="116.0">
+        <attvalues>
+          <attvalue for="3" value="0.0002" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="690695" id="6117" weight="101.0">
+        <attvalues>
+          <attvalue for="3" value="0.0004" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="1146730" id="6013" weight="98.0">
+        <attvalues>
+          <attvalue for="3" value="0.0006" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="958268" id="6238" weight="89.0">
+        <attvalues>
+          <attvalue for="3" value="0.0012" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="688072" id="6002" weight="74.0">
+        <attvalues>
+          <attvalue for="3" value="0.0046" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="687282" id="6456" weight="70.0">
+        <attvalues>
+          <attvalue for="3" value="0.0051" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="692769" id="5991" weight="64.0">
+        <attvalues>
+          <attvalue for="3" value="0.008" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="690381" id="6215" weight="37.0">
+        <attvalues>
+          <attvalue for="3" value="0.062" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="1584776" id="6344" weight="37.0">
+        <attvalues>
+          <attvalue for="3" value="0.062" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="2437574" id="6001" weight="31.0">
+        <attvalues>
+          <attvalue for="3" value="0.0974" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="688726" id="6031" weight="31.0">
+        <attvalues>
+          <attvalue for="3" value="0.0037" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="690789" id="6192" weight="30.0">
+        <attvalues>
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="687731" id="6058" weight="24.0">
+        <attvalues>
+          <attvalue for="3" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="688936" id="6470" weight="18.0">
+        <attvalues>
+          <attvalue for="3" value="0.037" />
+        </attvalues>
+      </edge>
+      <edge source="690513" target="692582" id="6693" weight="7.0">
+        <attvalues>
+          <attvalue for="3" value="0.0723" />
+        </attvalues>
+      </edge>
+      <edge source="690356" target="687410" id="78587" weight="17.0">
+        <attvalues>
+          <attvalue for="3" value="0.0111" />
+        </attvalues>
+      </edge>
+      <edge source="689164" target="688429" id="15881" weight="51.0">
+        <attvalues>
+          <attvalue for="3" value="0.0203" />
+        </attvalues>
+      </edge>
+      <edge source="688070" target="688082" id="2600" weight="43.0">
+        <attvalues>
+          <attvalue for="3" value="0.002" />
+        </attvalues>
+      </edge>
+      <edge source="692084" target="687398" id="59725" weight="33.0">
+        <attvalues>
+          <attvalue for="3" value="0.0902" />
+        </attvalues>
+      </edge>
+      <edge source="692424" target="687398" id="59960" weight="27.0">
+        <attvalues>
+          <attvalue for="3" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="687454" target="688501" id="64105" weight="10.0">
+        <attvalues>
+          <attvalue for="3" value="0.0878" />
+        </attvalues>
+      </edge>
+      <edge source="687351" target="688003" id="50253" weight="38.0">
+        <attvalues>
+          <attvalue for="3" value="0.0386" />
+        </attvalues>
+      </edge>
+      <edge source="692369" target="687398" id="59867" weight="37.0">
+        <attvalues>
+          <attvalue for="3" value="0.0263" />
+        </attvalues>
+      </edge>
+      <edge source="1649045" target="688082" id="2775" weight="105.0">
+        <attvalues>
+          <attvalue for="3" value="0.0004" />
+        </attvalues>
+      </edge>
+      <edge source="688624" target="689434" id="10404" weight="239.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="690788" target="688082" id="3268" weight="13.0">
+        <attvalues>
+          <attvalue for="3" value="0.0554" />
+        </attvalues>
+      </edge>
+      <edge source="687410" target="688082" id="2542" weight="209.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687410" target="688346" id="78213" weight="23.0">
+        <attvalues>
+          <attvalue for="3" value="0.0468" />
+        </attvalues>
+      </edge>
+      <edge source="687410" target="688209" id="78398" weight="11.0">
+        <attvalues>
+          <attvalue for="3" value="0.0833" />
+        </attvalues>
+      </edge>
+      <edge source="689473" target="688082" id="2605" weight="96.0">
+        <attvalues>
+          <attvalue for="3" value="0.0009" />
+        </attvalues>
+      </edge>
+      <edge source="959061" target="688082" id="2631" weight="86.0">
+        <attvalues>
+          <attvalue for="3" value="0.0018" />
+        </attvalues>
+      </edge>
+      <edge source="691814" target="688082" id="2934" weight="38.0">
+        <attvalues>
+          <attvalue for="3" value="0.0617" />
+        </attvalues>
+      </edge>
+      <edge source="1083187" target="688082" id="3650" weight="37.0">
+        <attvalues>
+          <attvalue for="3" value="0.0664" />
+        </attvalues>
+      </edge>
+      <edge source="689288" target="688082" id="3469" weight="32.0">
+        <attvalues>
+          <attvalue for="3" value="0.0958" />
+        </attvalues>
+      </edge>
+      <edge source="688763" target="688151" id="18399" weight="769.0">
+        <attvalues>
+          <attvalue for="3" value="0.0002" />
+        </attvalues>
+      </edge>
+      <edge source="689436" target="687398" id="59571" weight="35.0">
+        <attvalues>
+          <attvalue for="3" value="0.0144" />
+        </attvalues>
+      </edge>
+      <edge source="687964" target="688277" id="44250" weight="292.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="691396" target="688082" id="2461" weight="296.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688316" target="688082" id="2614" weight="54.0">
+        <attvalues>
+          <attvalue for="3" value="0.0003" />
+        </attvalues>
+      </edge>
+      <edge source="691607" target="688082" id="2670" weight="90.0">
+        <attvalues>
+          <attvalue for="3" value="0.0387" />
+        </attvalues>
+      </edge>
+      <edge source="689565" target="688277" id="44233" weight="265.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="689525" target="688277" id="44236" weight="194.0">
+        <attvalues>
+          <attvalue for="3" value="0.0152" />
+        </attvalues>
+      </edge>
+      <edge source="688518" target="693528" id="81920" weight="13.0">
+        <attvalues>
+          <attvalue for="3" value="0.0066" />
+        </attvalues>
+      </edge>
+      <edge source="688736" target="688082" id="2575" weight="34.0">
+        <attvalues>
+          <attvalue for="3" value="0.0174" />
+        </attvalues>
+      </edge>
+      <edge source="688736" target="691316" id="66334" weight="36.0">
+        <attvalues>
+          <attvalue for="3" value="0.0133" />
+        </attvalues>
+      </edge>
+      <edge source="688736" target="688613" id="66331" weight="31.0">
+        <attvalues>
+          <attvalue for="3" value="0.0882" />
+        </attvalues>
+      </edge>
+      <edge source="687847" target="687398" id="59592" weight="104.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="689414" target="688542" id="55337" weight="17.0">
+        <attvalues>
+          <attvalue for="3" value="0.0709" />
+        </attvalues>
+      </edge>
+      <edge source="689037" target="690702" id="58413" weight="11.0">
+        <attvalues>
+          <attvalue for="3" value="0.0833" />
+        </attvalues>
+      </edge>
+      <edge source="687560" target="688082" id="2617" weight="105.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687644" target="687398" id="59609" weight="118.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690706" target="689434" id="10375" weight="67.0">
+        <attvalues>
+          <attvalue for="3" value="0.0692" />
+        </attvalues>
+      </edge>
+      <edge source="1830296" target="689434" id="10679" weight="66.0">
+        <attvalues>
+          <attvalue for="3" value="0.072" />
+        </attvalues>
+      </edge>
+      <edge source="689933" target="688082" id="2753" weight="41.0">
+        <attvalues>
+          <attvalue for="3" value="0.0465" />
+        </attvalues>
+      </edge>
+      <edge source="689653" target="688277" id="44315" weight="45.0">
+        <attvalues>
+          <attvalue for="3" value="0.0217" />
+        </attvalues>
+      </edge>
+      <edge source="688684" target="688082" id="2918" weight="132.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="691267" target="687398" id="60401" weight="23.0">
+        <attvalues>
+          <attvalue for="3" value="0.0219" />
+        </attvalues>
+      </edge>
+      <edge source="1573804" target="688082" id="2698" weight="46.0">
+        <attvalues>
+          <attvalue for="3" value="0.0343" />
+        </attvalues>
+      </edge>
+      <edge source="689270" target="688003" id="50384" weight="49.0">
+        <attvalues>
+          <attvalue for="3" value="0.0148" />
+        </attvalues>
+      </edge>
+      <edge source="687488" target="687398" id="59597" weight="152.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688383" target="689434" id="10104" weight="543.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688725" target="688082" id="2567" weight="258.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688151" target="688082" id="2469" weight="1331.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688151" target="994724" id="18385" weight="569.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688151" target="958874" id="18404" weight="292.0">
+        <attvalues>
+          <attvalue for="3" value="0.0243" />
+        </attvalues>
+      </edge>
+      <edge source="689200" target="689434" id="10408" weight="236.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="688611" target="689434" id="10514" weight="120.0">
+        <attvalues>
+          <attvalue for="3" value="0.0083" />
+        </attvalues>
+      </edge>
+      <edge source="688836" target="689434" id="10115" weight="83.0">
+        <attvalues>
+          <attvalue for="3" value="0.0365" />
+        </attvalues>
+      </edge>
+      <edge source="688107" target="688082" id="2464" weight="270.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="691584" target="689434" id="10105" weight="209.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="692569" target="688542" id="55117" weight="23.0">
+        <attvalues>
+          <attvalue for="3" value="0.0203" />
+        </attvalues>
+      </edge>
+      <edge source="689582" target="687398" id="59833" weight="53.0">
+        <attvalues>
+          <attvalue for="3" value="0.0004" />
+        </attvalues>
+      </edge>
+      <edge source="688069" target="687398" id="59612" weight="25.0">
+        <attvalues>
+          <attvalue for="3" value="0.0741" />
+        </attvalues>
+      </edge>
+      <edge source="2373998" target="689434" id="10143" weight="73.0">
+        <attvalues>
+          <attvalue for="3" value="0.0545" />
+        </attvalues>
+      </edge>
+      <edge source="689059" target="689434" id="10219" weight="12.0">
+        <attvalues>
+          <attvalue for="3" value="0.0865" />
+        </attvalues>
+      </edge>
+      <edge source="990004" target="689434" id="10113" weight="127.0">
+        <attvalues>
+          <attvalue for="3" value="0.0063" />
+        </attvalues>
+      </edge>
+      <edge source="2171161" target="688082" id="3124" weight="82.0">
+        <attvalues>
+          <attvalue for="3" value="0.0024" />
+        </attvalues>
+      </edge>
+      <edge source="693257" target="689434" id="10474" weight="35.0">
+        <attvalues>
+          <attvalue for="3" value="0.0024" />
+        </attvalues>
+      </edge>
+      <edge source="690177" target="688082" id="2959" weight="97.0">
+        <attvalues>
+          <attvalue for="3" value="0.0002" />
+        </attvalues>
+      </edge>
+      <edge source="693528" target="687398" id="60113" weight="18.0">
+        <attvalues>
+          <attvalue for="3" value="0.0778" />
+        </attvalues>
+      </edge>
+      <edge source="688399" target="689434" id="10418" weight="132.0">
+        <attvalues>
+          <attvalue for="3" value="0.0051" />
+        </attvalues>
+      </edge>
+      <edge source="689503" target="689434" id="10097" weight="118.0">
+        <attvalues>
+          <attvalue for="3" value="0.0004" />
+        </attvalues>
+      </edge>
+      <edge source="1587924" target="688082" id="3254" weight="50.0">
+        <attvalues>
+          <attvalue for="3" value="0.0256" />
+        </attvalues>
+      </edge>
+      <edge source="687516" target="688082" id="2811" weight="124.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="688393" id="1042" weight="202.0">
+        <attvalues>
+          <attvalue for="3" value="0.0003" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="688082" id="2471" weight="2675.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="958453" id="10123" weight="1088.0">
+        <attvalues>
+          <attvalue for="3" value="0.0018" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="688003" id="10139" weight="890.0">
+        <attvalues>
+          <attvalue for="3" value="-0.0" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="2274161" id="10121" weight="530.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="689415" id="10235" weight="511.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="689317" id="10140" weight="184.0">
+        <attvalues>
+          <attvalue for="3" value="0.0054" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="692230" id="10146" weight="182.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="687866" id="10202" weight="180.0">
+        <attvalues>
+          <attvalue for="3" value="0.0007" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="688617" id="10633" weight="175.0">
+        <attvalues>
+          <attvalue for="3" value="0.0223" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="2230277" id="10106" weight="171.0">
+        <attvalues>
+          <attvalue for="3" value="0.0058" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="690393" id="10489" weight="105.0">
+        <attvalues>
+          <attvalue for="3" value="0.0151" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="2516237" id="10141" weight="79.0">
+        <attvalues>
+          <attvalue for="3" value="0.0429" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="1827154" id="10116" weight="78.0">
+        <attvalues>
+          <attvalue for="3" value="0.0446" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="689851" id="10164" weight="56.0">
+        <attvalues>
+          <attvalue for="3" value="0.0598" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="957742" id="11107" weight="54.0">
+        <attvalues>
+          <attvalue for="3" value="0.0424" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="688293" id="10211" weight="49.0">
+        <attvalues>
+          <attvalue for="3" value="0.0755" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="1472724" id="10947" weight="30.0">
+        <attvalues>
+          <attvalue for="3" value="0.0323" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="693250" id="10654" weight="23.0">
+        <attvalues>
+          <attvalue for="3" value="0.0417" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="691564" id="10466" weight="16.0">
+        <attvalues>
+          <attvalue for="3" value="0.0588" />
+        </attvalues>
+      </edge>
+      <edge source="689434" target="2139750" id="11753" weight="10.0">
+        <attvalues>
+          <attvalue for="3" value="0.0909" />
+        </attvalues>
+      </edge>
+      <edge source="690294" target="688082" id="2726" weight="56.0">
+        <attvalues>
+          <attvalue for="3" value="0.0165" />
+        </attvalues>
+      </edge>
+      <edge source="687483" target="688082" id="2574" weight="44.0">
+        <attvalues>
+          <attvalue for="3" value="0.0036" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="688082" id="2552" weight="595.0">
+        <attvalues>
+          <attvalue for="3" value="-0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="688222" id="52076" weight="51.0">
+        <attvalues>
+          <attvalue for="3" value="0.0241" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="688542" id="55094" weight="233.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="688868" id="59618" weight="115.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="693080" id="59718" weight="107.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="687407" id="59652" weight="83.0">
+        <attvalues>
+          <attvalue for="3" value="0.0466" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="687873" id="59661" weight="76.0">
+        <attvalues>
+          <attvalue for="3" value="0.0016" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="687526" id="59769" weight="42.0">
+        <attvalues>
+          <attvalue for="3" value="0.0076" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="692412" id="59901" weight="42.0">
+        <attvalues>
+          <attvalue for="3" value="0.0044" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="688234" id="59993" weight="42.0">
+        <attvalues>
+          <attvalue for="3" value="0.0455" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="690459" id="59601" weight="29.0">
+        <attvalues>
+          <attvalue for="3" value="0.0294" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="688588" id="59853" weight="20.0">
+        <attvalues>
+          <attvalue for="3" value="0.017" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="690285" id="59646" weight="11.0">
+        <attvalues>
+          <attvalue for="3" value="0.0711" />
+        </attvalues>
+      </edge>
+      <edge source="687398" target="689948" id="60114" weight="11.0">
+        <attvalues>
+          <attvalue for="3" value="0.0459" />
+        </attvalues>
+      </edge>
+      <edge source="689848" target="688082" id="2504" weight="53.0">
+        <attvalues>
+          <attvalue for="3" value="0.0205" />
+        </attvalues>
+      </edge>
+      <edge source="688081" target="688082" id="2797" weight="49.0">
+        <attvalues>
+          <attvalue for="3" value="0.0275" />
+        </attvalues>
+      </edge>
+      <edge source="688429" target="688082" id="2465" weight="149.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="687641" target="688082" id="3119" weight="31.0">
+        <attvalues>
+          <attvalue for="3" value="0.0018" />
+        </attvalues>
+      </edge>
+      <edge source="688821" target="690702" id="58355" weight="16.0">
+        <attvalues>
+          <attvalue for="3" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="688101" target="688082" id="2528" weight="350.0">
+        <attvalues>
+          <attvalue for="3" value="-0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688101" target="689444" id="48339" weight="41.0">
+        <attvalues>
+          <attvalue for="3" value="0.0027" />
+        </attvalues>
+      </edge>
+      <edge source="688101" target="691145" id="48802" weight="31.0">
+        <attvalues>
+          <attvalue for="3" value="0.0312" />
+        </attvalues>
+      </edge>
+      <edge source="688101" target="690820" id="48736" weight="30.0">
+        <attvalues>
+          <attvalue for="3" value="0.0817" />
+        </attvalues>
+      </edge>
+      <edge source="688101" target="1216330" id="48975" weight="28.0">
+        <attvalues>
+          <attvalue for="3" value="0.0181" />
+        </attvalues>
+      </edge>
+      <edge source="691070" target="688082" id="2645" weight="16.0">
+        <attvalues>
+          <attvalue for="3" value="0.0588" />
+        </attvalues>
+      </edge>
+      <edge source="958823" target="688082" id="2633" weight="142.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="690736" target="688082" id="2875" weight="67.0">
+        <attvalues>
+          <attvalue for="3" value="0.0032" />
+        </attvalues>
+      </edge>
+      <edge source="689218" target="692825" id="92341" weight="47.0">
+        <attvalues>
+          <attvalue for="3" value="0.0408" />
+        </attvalues>
+      </edge>
+      <edge source="687301" target="688082" id="2521" weight="68.0">
+        <attvalues>
+          <attvalue for="3" value="0.0001" />
+        </attvalues>
+      </edge>
+      <edge source="690029" target="688082" id="2710" weight="44.0">
+        <attvalues>
+          <attvalue for="3" value="0.0397" />
+        </attvalues>
+      </edge>
+      <edge source="958494" target="688082" id="3220" weight="72.0">
+        <attvalues>
+          <attvalue for="3" value="0.0769" />
+        </attvalues>
+      </edge>
+      <edge source="1225000" target="688082" id="3688" weight="37.0">
+        <attvalues>
+          <attvalue for="3" value="0.0664" />
+        </attvalues>
+      </edge>
+      <edge source="688003" target="687416" id="50283" weight="9.0">
+        <attvalues>
+          <attvalue for="3" value="0.0331" />
+        </attvalues>
+      </edge>
+      <edge source="690395" target="688082" id="2800" weight="30.0">
+        <attvalues>
+          <attvalue for="3" value="0.0322" />
+        </attvalues>
+      </edge>
+      <edge source="691051" target="688082" id="2588" weight="173.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="691051" target="687496" id="56659" weight="29.0">
+        <attvalues>
+          <attvalue for="3" value="0.0657" />
+        </attvalues>
+      </edge>
+      <edge source="688216" target="688082" id="2779" weight="59.0">
+        <attvalues>
+          <attvalue for="3" value="0.0003" />
+        </attvalues>
+      </edge>
+      <edge source="687986" target="688082" id="2490" weight="3582.0">
+        <attvalues>
+          <attvalue for="3" value="-0.0" />
+        </attvalues>
+      </edge>
+      <edge source="692768" target="688082" id="2478" weight="652.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688241" target="688082" id="3294" weight="34.0">
+        <attvalues>
+          <attvalue for="3" value="0.0828" />
+        </attvalues>
+      </edge>
+      <edge source="688501" target="688082" id="2622" weight="104.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688501" target="689093" id="61810" weight="30.0">
+        <attvalues>
+          <attvalue for="3" value="0.0289" />
+        </attvalues>
+      </edge>
+      <edge source="692825" target="688082" id="2576" weight="111.0">
+        <attvalues>
+          <attvalue for="3" value="0.0007" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="688959" id="2468" weight="835.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="688277" id="2499" weight="300.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="690702" id="2517" weight="261.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="689622" id="2541" weight="115.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="693520" id="2532" weight="68.0">
+        <attvalues>
+          <attvalue for="3" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="687590" id="3242" weight="63.0">
+        <attvalues>
+          <attvalue for="3" value="0.0054" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="687713" id="2525" weight="57.0">
+        <attvalues>
+          <attvalue for="3" value="0.0153" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="1605852" id="2916" weight="54.0">
+        <attvalues>
+          <attvalue for="3" value="0.0191" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="2515848" id="3224" weight="46.0">
+        <attvalues>
+          <attvalue for="3" value="0.0343" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="687335" id="3316" weight="41.0">
+        <attvalues>
+          <attvalue for="3" value="0.0021" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="691295" id="2486" weight="36.0">
+        <attvalues>
+          <attvalue for="3" value="0.0715" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="689584" id="2495" weight="34.0">
+        <attvalues>
+          <attvalue for="3" value="0.0178" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="688335" id="2603" weight="29.0">
+        <attvalues>
+          <attvalue for="3" value="0.0043" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="687472" id="3480" weight="22.0">
+        <attvalues>
+          <attvalue for="3" value="0.0833" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="692113" id="3040" weight="21.0">
+        <attvalues>
+          <attvalue for="3" value="0.0455" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="691468" id="3537" weight="14.0">
+        <attvalues>
+          <attvalue for="3" value="0.011" />
+        </attvalues>
+      </edge>
+      <edge source="688082" target="688102" id="3510" weight="12.0">
+        <attvalues>
+          <attvalue for="3" value="0.0734" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
