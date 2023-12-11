@@ -78,11 +78,10 @@ fig = go.Figure(data=[edge_trace, node_trace],
                 )
 fig.show()
 
-server = app.server
 app = Dash()
 app.layout = html.Div([
     dcc.Graph(figure=fig)
 ])
+server = app.server
 
-# Turn off reloader if inside Jupyter
 app.run_server(debug=True, use_reloader=False)
