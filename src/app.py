@@ -84,4 +84,4 @@ app.layout = html.Div([
 ])
 server = app.server
 
-app.run_server(debug=True, use_reloader=False)
+server.run(host='0.0.0.0', port='8000')
