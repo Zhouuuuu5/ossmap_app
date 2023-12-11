@@ -2,7 +2,7 @@ import plotly.graph_objects as go
 from dash import Dash, dcc, html
 import networkx as nx
 
-G = nx.random_geometric_graph(200, 0.125)
+G = nx.random_geometric_graph(2000000, 0.125)
 
 edge_x = []
 edge_y = []
